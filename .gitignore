@@ -1,0 +1,9 @@
+# Build artifacts (in case a future build uses obj/bin instead of raw csc output)
+obj/
+bin/
+*.pdb
+
+# OS / editor cruft
+Thumbs.db
+.vs/
+.vscode/
